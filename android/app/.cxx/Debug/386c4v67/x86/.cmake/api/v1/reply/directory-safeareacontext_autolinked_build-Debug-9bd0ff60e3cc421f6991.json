@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "safeareacontext_autolinked_build",
+		"source" : "/home/sonal/Desktop/EXMYB/MBW/MWB_Sales_App/node_modules/react-native-safe-area-context/android/src/main/jni"
+	}
+}

@@ -1,0 +1,5 @@
+1>admin login can do the login with the same login
+2http://localhost:8080/product/createProduct?productName="abcd"&price=20
+add one more key strip:'',
+
+3>

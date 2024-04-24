@@ -1,0 +1,1 @@
+/home/sonal/Desktop/EXMYB/MBW/MWB_Sales_App/android/app/build/intermediates/cxx/Debug/386c4v67/obj/x86_64

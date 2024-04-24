@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "RNCGeolocation_autolinked_build",
+		"source" : "/home/sonal/Desktop/EXMYB/MBW/MWB_Sales_App/node_modules/@react-native-community/geolocation/android/build/generated/source/codegen/jni"
+	}
+}

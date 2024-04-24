@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "prefabPath": "/home/sonal/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.0.0/f2702b5ca13df54e3ca92f29d6b403fb6285d8df/cli-2.0.0-all.jar",
+  "packages": [
+    "/home/sonal/.gradle/caches/transforms-3/aa0391c2d312f0f1818ac488a1df81c8/transformed/jetified-react-android-0.72.6-debug/prefab",
+    "/home/sonal/.gradle/caches/transforms-3/2ad7d111a276d50f84009b2c4a1f15c0/transformed/jetified-fbjni-0.3.0/prefab",
+    "/home/sonal/.gradle/caches/transforms-3/5cf5511372e70c02a86a54c3988c86e2/transformed/jetified-hermes-android-0.72.6-debug/prefab",
+    "/home/sonal/Desktop/EXMYB/MBW/MWB_Sales_App/node_modules/react-native-reanimated/android/build/intermediates/prefab_package/debug/prefab"
+  ]
+}

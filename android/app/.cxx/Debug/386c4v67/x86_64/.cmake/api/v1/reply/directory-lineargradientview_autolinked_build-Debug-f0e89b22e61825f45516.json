@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "lineargradientview_autolinked_build",
+		"source" : "/home/sonal/Desktop/EXMYB/MBW/MWB_Sales_App/node_modules/rnx-gradient/android/build/generated/source/codegen/jni"
+	}
+}
